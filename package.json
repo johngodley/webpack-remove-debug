@@ -1,0 +1,29 @@
+{
+  "name": "webpack-remove-debug",
+  "version": "0.1.0",
+  "description": "Webpack loader to remove debug from your production code.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "webpack",
+	"debug",
+    "strip",
+	"remove"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johngodley/webpack-remove-debug"
+  },
+  "author": "John Godley",
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/johngodley/webpack-remove-debug/blob/master/LICENSE.md"
+    }
+  ]
+}
